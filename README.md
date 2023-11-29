@@ -1,15 +1,16 @@
 # CVLinks
-* [RockAndVroll](https://github.com/F8nix/Unity_VR) - projekt VR, Vip praca zespołowa
-* [Cwiczenie C#](https://github.com/F8nix/TalesOfDemonRealm) - prywatne próby dokształcania się w zakresie czystego C#; Wip, rzeczy mogą nie działać stanowczo
-
-* [Flappy bird](https://github.com/F8nix/Unity_lab1) - Klon popularnego Flappy birda
-* [Space invader](https://github.com/F8nix/Unity_Lab4) - Shoot-em up
-* [Projekt z błedami](https://github.com/F8nix/UnityLab6) - Otrzymaliśmy projekt, który został zrobiony celowo z problemami do naprawienia.
+## PL
+* [Fast And Curious](https://github.com/F8nix/FastAndCurious) - projekt na zajęcia na uniwersytecie (WIP), najbardziej rozwinięty projekt
+* [Cwiczenie C#](https://github.com/F8nix/TalesOfDemonRealm) - prywatne próby dokształcania się w zakresie czystego C#; Wip, rzeczy mogą nie działać
+* Mniejsze projekty:
+  * [Flappy bird](https://github.com/F8nix/Unity_lab1) - Klon popularnego Flappy birda
+  * [Space invader](https://github.com/F8nix/Unity_Lab4) - Shoot-em up
+  * [Projekt z błedami](https://github.com/F8nix/UnityLab6) - Otrzymaliśmy projekt, który został zrobiony celowo z problemami do naprawienia.
   
-* ENG
-* [RockAndVroll](https://github.com/F8nix/Unity_VR) - VR project, Wip teamwork
-* [C# practising](https://github.com/F8nix/TalesOfDemonRealm) - private trying to learn C# only; Vip, things absolutely can malfunction
-  
-* [Flappy bird](https://github.com/F8nix/Unity_lab1) - Clone of popular Flappy bird
-* [Space invader](https://github.com/F8nix/Unity_Lab4) - Shoot-em up
-* [Project with mistakes](https://github.com/F8nix/UnityLab6) - We received project with bugs, which we were meant to fix.
+## ENG
+* [Fast and Curious](https://github.com/F8nix/FastAndCurious) - University assignment project (WIP), the most advanced project
+* [C# practice](https://github.com/F8nix/TalesOfDemonRealm) - personal attempts to learn pure C#; Wip, things can malfunction
+* Smaller projects:
+  * [Flappy bird](https://github.com/F8nix/Unity_lab1) - Clone of popular Flappy bird
+  * [Space invader](https://github.com/F8nix/Unity_Lab4) - Shoot-em up
+  * [Project with mistakes](https://github.com/F8nix/UnityLab6) - We received project with bugs, which we were meant to fix.
